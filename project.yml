@@ -1,0 +1,13 @@
+name: AutoLayoutAnchorsExample
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    iOS: "11.0"
+targets:
+  AutoLayoutAnchorsExample:
+    type: application
+    platform: iOS
+    sources: [AutoLayoutAnchorsExample]
+    settings:
+      base:
+        SWIFT_VERSION: 4.2
