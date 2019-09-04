@@ -1,6 +1,6 @@
 import UIKit
 
-class ExampleViewController: UIViewController {
+class ProgramaticAutoLayoutViewController: UIViewController {
 
     override func loadView() {
         let view = UIView()
